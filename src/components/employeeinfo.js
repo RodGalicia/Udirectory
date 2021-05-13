@@ -77,7 +77,7 @@ const EmployeeInfo = () => {
                     <input
                         className="form-control w-25 mx-auto shadow-lg"
                         type="search"
-                        placeholder="Search Employee mame"
+                        placeholder="Search Employee name"
                         name="search"
                         onChange={handleSearch}
                         value={lookup}
