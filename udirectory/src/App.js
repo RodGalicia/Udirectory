@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './components/header';
-import EmployeeInfo from './components/employeeInfo';
+import EmployeeInfo from './components/employeeinfo.js';
 
 
 const App = () => {
